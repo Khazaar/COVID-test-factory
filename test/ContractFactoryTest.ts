@@ -7,6 +7,7 @@ import { BigNumber } from "@ethersproject/bignumber";
 //import { MedOrgContract__factory, MedContractFactory__factory } from "../typechain-types/";
 import { MedOrgContract__factory, MedContractFactory__factory } from "../typechain-types/"
 
+
 describe("MedContractFactory", function () {
   // We define a fixture to reuse the same setup in every test.
   // We use loadFixture to run this setup once, snapshot that state,
